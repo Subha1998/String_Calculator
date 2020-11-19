@@ -1,0 +1,7 @@
+. An empty String Returns 0.
+. A single number returns the same value.
+. Given two numbers, comma delimited, returns sum.
+. Two numbers, newline delimited, returns sum.
+. Three numbers, delimited either way, returns sum.
+. Negative numbers throw an Exception.
+. Numbers greater than 1000 are ignored.
